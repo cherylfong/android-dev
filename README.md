@@ -6,7 +6,7 @@
 Description: This app changes the text color on the screen. 
 
 ### App Walk-though
-![Shows the ouput of this app](week0_gif1)
+<img src="week0_gif1.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from Cheryl!
