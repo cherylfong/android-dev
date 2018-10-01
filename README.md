@@ -4,6 +4,7 @@
 
 ### My Hello World Application
 Description: This app changes the text color on the screen. 
+> Code can be found in the week0 branch of this repository.
 
 ### App Walk-though
 <img src="/gifs/week0_required.gif" width=200><br/>
