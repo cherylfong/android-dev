@@ -3,9 +3,7 @@
 ## Week 0
 
 ### My Hello World Application
-
-### App Description
-This app changes the text color on the screen. 
+Description: This app changes the text color on the screen. 
 
 ### App Walk-though
 ![Shows the ouput of this app](week0_gif1)
