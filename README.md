@@ -22,3 +22,13 @@ Description: This app changes the text color on the screen.
    - [ ] a. User can enter text into a text field using the keyboard.  
    - [ ] b. User can tap the "Change text string" button to update the label with the text from the text field.  
    - [ ] c. If the text field is empty, update label with default text string.  
+
+## Week 1
+
+### [Brainstorming](https://github.com/Group-27/Brainstorming)
+A group collective work where we brainedstormed for app ideas. [See my contribution to this repository](https://github.com/Group-27/Brainstorming/pull/2).
+
+## Week 2
+
+### [FlshCrds](https://github.com/cherylfong/FlshCrds)
+My flashCard app. This app simulates a flashcard by hiding and showing answers.
