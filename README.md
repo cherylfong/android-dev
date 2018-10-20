@@ -36,8 +36,8 @@ My flashCard app. This app simulates a flashcard by hiding and showing answers.
 ## Week 3
 
 ### [Wasp 1435](https://github.com/Group-27/Wasp-1435)
-Wasp 1435 is an app that group 27 has decided to make based on [Week 1's brainstorming](https://github.com/Group-27/Brainstorming).   
+Wasp 1435 is an app that group 27 has decided to make based on [week 1's brainstorming](https://github.com/Group-27/Brainstorming).   
 
-It merges cyber-security related topics into a game, which results as a capture the flag (CTF) like puzzle game app. This app will consist of weekly/monthly cyber-security related puzzles that will allow winners of a puzzle to meet each other and receive tangible prizes. Tangible prizes will depend on the difficulty of the puzzles and each stage will have a virtual reward to encourage progress. This app overall aims at making spreading the knowledge of cyber-security through a fun interactive way and to encourage beginners to join as well. Inspired by Cicada 3301 story.
+It merges cyber-security related topics into a game, which results as a capture the flag (CTF) like puzzle game app. This app will consist of weekly/monthly cyber-security related puzzles that will allow winners of a puzzle to meet each other and receive tangible prizes. Tangible prizes will depend on the difficulty of the puzzles and each stage will have a virtual reward to encourage progress. This app overall aims at spreading the knowledge of cyber-security through a fun interactive way and to encourage beginners to join as well. Inspired by Cicada 3301 story.
 
 [See my contribution to this repository](https://github.com/Group-27/Wasp-1435/pull/1).
