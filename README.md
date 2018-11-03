@@ -41,3 +41,13 @@ Wasp 1435 is an app that group 27 has decided to make based on [week 1's brainst
 It merges cyber-security related topics into a game, which results as a capture the flag (CTF) like puzzle game app. This app will consist of weekly/monthly cyber-security related puzzles that will allow winners of a puzzle to meet each other and receive tangible prizes. Tangible prizes will depend on the difficulty of the puzzles and each stage will have a virtual reward to encourage progress. This app overall aims at spreading the knowledge of cyber-security through a fun interactive way and to encourage beginners to join as well. Inspired by Cicada 3301 story.
 
 [See my contribution to this repository](https://github.com/Group-27/Wasp-1435/pull/1).
+
+## Week 4
+
+### [FlshCrds](https://github.com/cherylfong/FlshCrds)
+Improved on my flashcard app. Now allows users to create and edit cards, [see progress updates](https://github.com/cherylfong/FlshCrds/commit/b6ea396c1061b6bd1e27788c7a54b0a7f84f46dc).
+
+## Week 5
+
+### [Wasp 1435](https://github.com/Group-27/Wasp-1435)
+Added the spec details of Wasp 1435, [see my contributions to this portion](https://github.com/Group-27/Wasp-1435/commit/4b3dacc607f5f915e32ccedda385d675ff9d5b66). In addition to creating the app wireframe (prototype UI/UX) [using Figma](https://www.figma.com/file/UWs4KAQvY8XT1IWMeJsZccc1/Wasp-1435-Wireframe?node-id=0%3A1). 
