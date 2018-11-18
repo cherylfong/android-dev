@@ -51,3 +51,11 @@ Improved on my flashcard app. Now allows users to create and edit cards, [see pr
 
 ### [Wasp 1435](https://github.com/Group-27/Wasp-1435)
 Added the spec details of Wasp 1435, [see my contributions to this portion](https://github.com/Group-27/Wasp-1435/commit/4b3dacc607f5f915e32ccedda385d675ff9d5b66). In addition to creating the app wireframe (prototype UI/UX) [using Figma](https://www.figma.com/file/UWs4KAQvY8XT1IWMeJsZccc1/Wasp-1435-Wireframe?node-id=0%3A1). 
+
+## Week 6
+
+### [FlshCrds](https://github.com/cherylfong/FlshCrds)
+Improved flashcard app functionality. Now allows users to store created cards and see cards they've created, [see progress updates](https://github.com/cherylfong/FlshCrds/commit/162b1d3c6d9ecde844910aacb1822b94d87a02b2).
+
+
+
