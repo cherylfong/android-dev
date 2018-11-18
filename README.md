@@ -57,5 +57,10 @@ Added the spec details of Wasp 1435, [see my contributions to this portion](http
 ### [FlshCrds](https://github.com/cherylfong/FlshCrds)
 Improved flashcard app functionality. Now allows users to store created cards and see cards they've created, [see progress updates](https://github.com/cherylfong/FlshCrds/commit/162b1d3c6d9ecde844910aacb1822b94d87a02b2).
 
+## Week 7
+
+### [Wasp 1435](https://github.com/Group-27/Wasp-1435)
+
+The [wireframes](https://github.com/Group-27/Wasp-1435#wireframes) for the app `Wasp 1435` is near completion with core features prototyped. [See my contributions to this group effort](https://github.com/Group-27/Wasp-1435/commit/fdc44d8c4f1357b3a223e57a589505a23e1c46df).
 
 
