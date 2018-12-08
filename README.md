@@ -4,17 +4,17 @@
 
 ### My Hello World Application
 Description: This app changes the text color on the screen. 
-> Code can be found in the week0 branch of this repository.
+> Code can be found in the `week0` branch of this repository.
 
 ### App Walk-though
 <img src="/gifs/week0_required.gif" width=200><br/>
 
-### Required User Stories
+### Required Features
 - [x] 1. User sees custom text in a label - Hello from Cheryl!
 - [x] 2. User see's custom background color.
 - [x] 3. User can tap a button to change the text color of the label.
 
-### Optional User Stories
+### Optional Features
 - [ ] 1. User can tap a button to change the color of the background view.  
 - [ ] 2. User can tap a button to change the text string of the label - Android is Awesome!  
 - [ ] 3. User can tap on the background view to reset all views to default settings.  
