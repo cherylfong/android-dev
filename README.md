@@ -63,4 +63,7 @@ Improved flashcard app functionality. Now allows users to store created cards an
 
 The [wireframes](https://github.com/Group-27/Wasp-1435#wireframes) for the app `Wasp 1435` is near completion with core features prototyped. [See my contributions to this group effort](https://github.com/Group-27/Wasp-1435/commit/fdc44d8c4f1357b3a223e57a589505a23e1c46df).
 
+## Week 8
 
+### [FlshCrds](https://github.com/cherylfong/FlshCrds)
+Added graphical details to the app. The app now has a customized launcher icon. Additionally, different interactions with the app displays different animations. [See progress updates](https://github.com/cherylfong/FlshCrds/commits/w8_v1_required-features-only) and [quick app demo](https://github.com/cherylfong/FlshCrds/blob/master/week8_v1.gif).
