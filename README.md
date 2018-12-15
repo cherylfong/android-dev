@@ -1,4 +1,4 @@
-# My progress in Android Development 📱
+# My progress in Android Design 📱
 
 ## Week 0
 
@@ -67,3 +67,7 @@ The [wireframes](https://github.com/Group-27/Wasp-1435#wireframes) for the app `
 
 ### [FlshCrds](https://github.com/cherylfong/FlshCrds)
 Added graphical details to the app. The app now has a customized launcher icon. Additionally, different interactions with the app displays different animations. [See progress updates](https://github.com/cherylfong/FlshCrds/commits/w8_v1_required-features-only) and [quick app demo](https://github.com/cherylfong/FlshCrds/blob/master/week8_v1.gif).
+
+## Week 9 & 10
+
+Made a video, slidedeck and app prototype for [Wasp 1435](https://github.com/Group-27/Wasp-1435)
